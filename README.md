@@ -32,5 +32,5 @@ Proyecto académico de aplicación de técnicas de aprendizaje supervisado y no 
 
 Proyecto realizado en colaboración con Camila Belén González como parte de la materia Inferencia Estadística y Reconocimiento de Patrones.
 
-Luciana Parallela  
+Luciana Sol Parallela  
 Estudiante de Licenciatura en Ciencia de Datos.
